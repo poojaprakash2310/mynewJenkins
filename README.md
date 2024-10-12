@@ -1,6 +1,5 @@
 ## New lIne added
 
-
 This is Maven Project
 
 - Free Style Project
