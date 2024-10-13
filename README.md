@@ -1,4 +1,4 @@
-
+## added new line
 This is Maven Project
 
 - Free Style Project
